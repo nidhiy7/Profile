@@ -44,8 +44,7 @@ I'm a data science enthusiast with a passion for using data to drive meaningful 
 ![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)
 ![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg)
 ![NumPy](https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg)
-![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)
-![PySpark](https://cdn.iconscout.com/icon/free/png-256/apache-spark-282323.png)
+
 
 ## Contact Me
 
