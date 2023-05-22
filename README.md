@@ -37,11 +37,6 @@ I'm a data science enthusiast with a passion for using data to drive meaningful 
 ![Collab](https://img.shields.io/badge/Google%20Colaboratory-%23F37626.svg?&style=for-the-badge&logo=Google-Colab&logoColor=black)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Google Cloud Platform](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)
-![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg)
-![NumPy](https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg)
 
 
 
