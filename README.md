@@ -1,4 +1,4 @@
-# Hello, I'm Anjali Gondse! 👋
+# Hello, I'm Nidhi Yadav ! 👋
 
 ![Globe](https://github.com/soopertramp/soopertramp/blob/main/globe-2.webp)
 
