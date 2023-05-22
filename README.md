@@ -1,6 +1,5 @@
 # Hello, I'm Nidhi Yadav ! 👋
 
-![Globe](https://github.com/soopertramp/soopertramp/blob/main/globe-2.webp)
 
 ### I'm a Data Science Enthusiast and Problem Solver
 
