@@ -1,6 +1,6 @@
 # Hello, I'm Nidhi Yadav! 👋
 
-![Cute Girl with Cat](https://example.com/image.png)
+![Cute Girl with Cat](https://cdni.iconscout.com/illustration/premium/thumb/woman-working-from-home-6607088-5517909.png)
 
 ### I'm a Data Science Enthusiast and Problem Solver
 
