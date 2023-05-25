@@ -40,18 +40,6 @@ I'm a data science enthusiast with a passion for using data to drive meaningful 
 
 
 
-## Contact Me
-
-- 📧 Email: your.email@example.com
-- 🌐 LinkedIn: [Your Name](https://www.linkedin.com/in/yourname)
-- 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-
-## Projects
-
-- Project 1: [Brief description of Project 1]
-- Project 2: [Brief description of Project 2]
-- Project 3: [Brief description of Project 3]
-
 ## Personal Interests
 
 - Traveling
